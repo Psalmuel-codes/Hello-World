@@ -1,2 +1,5 @@
 # Hello-World
-Starting up - Sample
+
+Hi...I'm Sam
+Want to know more about programming 
+especially front end developement...
